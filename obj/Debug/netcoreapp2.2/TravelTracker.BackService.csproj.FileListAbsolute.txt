@@ -1,0 +1,16 @@
+C:\Users\Custom\source\repos\TravelTracker.BackService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Custom\source\repos\TravelTracker.BackService\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Custom\source\repos\TravelTracker.BackService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Custom\source\repos\TravelTracker.BackService\bin\Debug\netcoreapp2.2\TravelTracker.BackService.deps.json
+C:\Users\Custom\source\repos\TravelTracker.BackService\bin\Debug\netcoreapp2.2\TravelTracker.BackService.runtimeconfig.json
+C:\Users\Custom\source\repos\TravelTracker.BackService\bin\Debug\netcoreapp2.2\TravelTracker.BackService.runtimeconfig.dev.json
+C:\Users\Custom\source\repos\TravelTracker.BackService\bin\Debug\netcoreapp2.2\TravelTracker.BackService.dll
+C:\Users\Custom\source\repos\TravelTracker.BackService\bin\Debug\netcoreapp2.2\TravelTracker.BackService.pdb
+C:\Users\Custom\source\repos\TravelTracker.BackService\obj\Debug\netcoreapp2.2\TravelTracker.BackService.RazorAssemblyInfo.cache
+C:\Users\Custom\source\repos\TravelTracker.BackService\obj\Debug\netcoreapp2.2\TravelTracker.BackService.RazorAssemblyInfo.cs
+C:\Users\Custom\source\repos\TravelTracker.BackService\obj\Debug\netcoreapp2.2\TravelTracker.BackService.AssemblyInfoInputs.cache
+C:\Users\Custom\source\repos\TravelTracker.BackService\obj\Debug\netcoreapp2.2\TravelTracker.BackService.AssemblyInfo.cs
+C:\Users\Custom\source\repos\TravelTracker.BackService\obj\Debug\netcoreapp2.2\TravelTracker.BackService.RazorTargetAssemblyInfo.cache
+C:\Users\Custom\source\repos\TravelTracker.BackService\obj\Debug\netcoreapp2.2\TravelTracker.BackService.dll
+C:\Users\Custom\source\repos\TravelTracker.BackService\obj\Debug\netcoreapp2.2\TravelTracker.BackService.pdb
+C:\Users\Custom\source\repos\TravelTracker.BackService\obj\Debug\netcoreapp2.2\TravelTracker.BackService.csprojAssemblyReference.cache
