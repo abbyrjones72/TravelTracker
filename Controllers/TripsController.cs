@@ -26,7 +26,7 @@ namespace TravelTracker.BackService.Controllers
         [HttpGet]
         public IEnumerable<Trip> Get()
         {
-            return _context.Trips;
+            return _context.Trips.ToList();
         }
 
         // GET api/Trips/5

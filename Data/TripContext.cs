@@ -13,7 +13,8 @@ namespace TravelTracker.BackService.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Trip>().HasKey(t => t.Id);
+            // modelBuilder.Entity<Trip>().HasKey(t => t.Id);
+            base.OnModelCreating(modelBuilder);
         }
     }
 }
