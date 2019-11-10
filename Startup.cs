@@ -31,8 +31,8 @@ namespace TravelTracker.BackService
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
             // added in the tutorial
-            services.AddSwaggerGen(options => options.SwaggerDoc("v1", new Info { Title = "Travel Tracker", Version = "v1" })
-            );
+            services.AddSwaggerGen(options => options.SwaggerDoc("v1", new Info { Title = "Travel Tracker", Version = "v1" }));
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
