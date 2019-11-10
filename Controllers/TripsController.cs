@@ -13,7 +13,8 @@ namespace TravelTracker.BackService.Controllers
     [ApiController]
     public class TripsController : ControllerBase
     {
-        //private Repository _repository;
+        // in memory controller for testing
+        // private Repository _repository;
 
         TripContext _context;
 
