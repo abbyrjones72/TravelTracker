@@ -53,6 +53,9 @@ namespace TravelTracker.BackService
 
             app.UseHttpsRedirection();
             app.UseMvc();
+
+            // pulls seed data from TripContext.cs
+            TripContext.SeedData(app.ApplicationServices);
         }
     }
 }
