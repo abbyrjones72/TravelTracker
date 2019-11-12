@@ -6,24 +6,8 @@ using System.ComponentModel.DataAnnotations;
 
 namespace TravelTracker.BackService.Models
 {
-    public class Segment
+    public class Segment : TravelTrackerDTO.Segment
     {
-        [Key]
-        public int Id { get; set; }
-
-        [Required]
-        public int SegmentId { get; set; }
-
-        [Required]
-        public string Name { get; set; }
-
-        [Required]
-        public string Description { get; set; }
-
-        [Required]
-        public DateTime StartDateTime { get; set; }
-        
-        [Required]
-        public DateTime EndDateTime { get; set; }
+   
     }
 }

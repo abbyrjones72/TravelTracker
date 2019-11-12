@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Swashbuckle.AspNetCore.Swagger;
 using TravelTracker.BackService.Data;
-using Microsoft.EntityFrameworkCore;
 
 namespace TravelTracker.BackService
 {
@@ -35,6 +35,8 @@ namespace TravelTracker.BackService
         {
 
             app.UseSwagger();
+
+            // only use swagger if we are in staging or development, not in production
             if (env.IsStaging() || env.IsDevelopment())
             {
                 // added in tutorial
